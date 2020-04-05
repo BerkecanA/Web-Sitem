@@ -1,3 +1,5 @@
 Kendim ve memleketim Bursa'yı anlatacağım web sitemin çalışmalarına başladım.
 HTML, CSS, Bootstrap vb. teknolojileri kullanacağım.
 Yaptığım gelişmeleri buraya commit'leyerek devam edecek ve burada paylaşacağım.
+
+Berkecan Ayhan-G171210106
